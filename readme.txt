@@ -1,4 +1,4 @@
-Please find explanations on this project in the "Subject" pdf. The "report" contains the theoratical work.
+Please find explanations on this project in the "Subject" pdf. The "report" contains the theoretical work.
 
 For files "preprocessing", "greedy" and "DP", the access to the results is facilitated by a test function which take as input a string : test1, test2, test3, test4 or test5.
 
